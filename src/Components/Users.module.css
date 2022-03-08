@@ -1,0 +1,15 @@
+thead {
+  text-transform: uppercase;
+}
+
+table * {
+  padding: 0.3rem;
+}
+
+table,
+th,
+td {
+  border-bottom: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
